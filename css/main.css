@@ -228,7 +228,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/repair.png');
+  background-image: url('../img/store.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -277,6 +277,9 @@ header .intro-text .intro-heading {
     font-size: 75px;
     line-height: 75px;
     margin-bottom: 50px;
+}
+.address{
+  text-align: center;
 }
 section {
   background-color:rgb(32, 46, 68);
